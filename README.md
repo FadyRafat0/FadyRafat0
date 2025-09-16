@@ -1,7 +1,6 @@
 # Hey there, I’m Fady 👋
 
-I’m a **Software Engineer** and a Computer Science student at Ain Shams University.  
-Passionate about solving problems, writing clean code, and constantly improving my skills through **competitive programming** and real-world projects.  
+👋 I’m Fady Rafat , a software engineering student with a passion for algorithms, data structures, problem-solving and competitive programming. Always eager to learn and tackle new challenges. Let’s build something great together! 🚀
 
 ---
 
