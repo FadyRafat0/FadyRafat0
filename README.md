@@ -8,7 +8,8 @@
 
 - **Languages**: C++, C#, Java, JavaScript, HTML, Python
 - **Databases**: Sql, Microsoft Sql Server
-- 
+- **Core Areas**: Data Structures, Algorithms, Problem Solving, Competitive Programming
+  
 ---
 
 ## 🎯 Current Focus
@@ -16,7 +17,7 @@
 - Sharpening my skills in algorithms and competitive programming  
 - Exploring backend development with Node.js & modern web technologies  
 - Building projects to bridge theory and practice
--   
+  
 ---
 
 ## 🌍 Connect with Me  
