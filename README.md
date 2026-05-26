@@ -24,7 +24,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fady-rafat-81336428b/)  
 - 🏆 [Codeforces](https://codeforces.com/profile/JustOK)  
-- 📧 [Your Email] fady.rafatx@gmail.com  
+- 📧 fady.rafatx@gmail.com  
 
 ---
 
